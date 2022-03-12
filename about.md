@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about 
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
@@ -11,23 +11,23 @@ redirect_from:
 
 # About
 <!--author-->
-***
+<!-- ***
 <center>
-<span style="font-size:170%;font-weight:bold"> 김현우
-</span>
+<span style="font-size:170%;font-weight:bold">  　　　　 HyeongWook</span>
 </center>
 <center>MAJOR : PHYSICS</center>
 <center>JEJU University</center>
-<center>HERE IS ABOUT.md</center>
+<center>HERE IS ABOUT.md</center> -->
+<!-- 전각 　　　　　띄어쓰기 -->
 ## Personal Data
 ---
-> 1995.03.03 대한민국, 제주> 연락처: hwjang33@gmail.com
-> Github : [https://github.com/hyeongwookjang](https://github.com/hyeongwookjang) 
+> Email  : hwjang33@gmail.com  
+> Github : [https://github.com/hyeongwookjang](https://github.com/hyeongwookjang)
+
 ## Education
 ---
-> Mar.20xx ~ Feb.20xx xx 대학교
+> Jeju University - Bachelor of Physics
 >
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
 ## Research Interest
  
 ---
